@@ -15,6 +15,8 @@ function getHumanChoice() {
 }
 
 // Step 4: Declare score variables
+let humanScore = 0;
+let computerScore = 0;
 
 // Step 5: Function to play a round
 
